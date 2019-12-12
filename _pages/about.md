@@ -1,15 +1,21 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "heeKim"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+## Hyunhee Kim
+#### 김현희
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+
+안녕하세요. 김현희 입니다.
+
+웹 백엔드 개발에 관심이 많습니다.
 
 ## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
 
-Thanks for reading!
+[티스토리 블로그](heekim0719.tistory.com)에서 현 블로그로 이전 작업 중입니다.
+프로젝트 관련 정보는 [GitHub](https://github.com/hyunhee7)에서 참고해주세요.
+
+방문해주셔서 감사합니다!
