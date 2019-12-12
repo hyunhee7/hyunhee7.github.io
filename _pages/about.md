@@ -6,7 +6,7 @@ permalink: /about/
 ---
 
 
-<img src="/assets/img/profile.jpg" width="20%" height="20%" style="
+<img src="/assets/img/profile.jpg" width="20%" height="20%" float="left" style="
 border-radius: 70px;
 -moz-border-radius: 70px;
 -khtml-border-radius: 70px;
@@ -22,7 +22,7 @@ border-radius: 70px;
 
 ## Contribute
 
-[티스토리 블로그](heekim0719.tistory.com)에서 현 블로그로 이전 작업 중입니다.
+[티스토리 블로그](https://heekim0719.tistory.com)에서 현 블로그로 이전 작업 중입니다.
 
 프로젝트 관련 정보는 [GitHub](https://github.com/hyunhee7)에서 참고해주세요.
 
